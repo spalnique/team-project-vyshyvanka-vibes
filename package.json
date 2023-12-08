@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/DigITall/",
+    "build": "vite build --base=/team-project-vyshyvanka-vibes/",
     "preview": "vite preview"
   },
   "devDependencies": {
